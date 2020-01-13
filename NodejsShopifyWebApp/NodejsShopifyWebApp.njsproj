@@ -31,7 +31,6 @@
     <DebugSymbols>true</DebugSymbols>
   </PropertyGroup>
   <ItemGroup>
-    <Content Include=".env" />
     <Content Include="next.config.js" />
     <Content Include="pages\annotated-layout.js" />
     <Content Include="pages\index.js">
