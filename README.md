@@ -1,5 +1,5 @@
 # NodejsShopifyWebApp
 
-Sample Shopify App with Node.js and React
+Sample Shopify App with Node.js and React.
 
-Followed tutorial available at [link]( https://developers.shopify.com/tutorials/build-a-shopify-app-with-node-and-react)
+This application was made following the tutorial available [here]( https://developers.shopify.com/tutorials/build-a-shopify-app-with-node-and-react).
