@@ -348,4 +348,5 @@ npm-debug.log
 .npm
 
 .next
-NodejsShopifyWebApp/.next
+**/.next
+**/package-lock.json
