@@ -41,7 +41,6 @@
     </Content>
     <Content Include="server.js" />
     <Content Include="package.json" />
-    <Content Include="README.md" />
     <Content Include="pages\_app.js" />
   </ItemGroup>
   <ItemGroup>
