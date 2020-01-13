@@ -32,8 +32,10 @@
   </PropertyGroup>
   <ItemGroup>
     <Content Include=".env" />
+    <Content Include="components\ResourceList.js" />
     <Content Include="next.config.js" />
     <Content Include="pages\annotated-layout.js" />
+    <Content Include="pages\edit-products.js" />
     <Content Include="pages\index.js">
       <SubType>Code</SubType>
     </Content>
@@ -43,6 +45,7 @@
     <Content Include="pages\_app.js" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="components\" />
     <Folder Include="pages\" />
   </ItemGroup>
   <Import Project="$(VSToolsPath)\Node.js Tools\Microsoft.NodejsToolsV2.targets" />
